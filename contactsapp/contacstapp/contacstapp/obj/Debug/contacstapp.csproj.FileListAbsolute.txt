@@ -1,0 +1,7 @@
+C:\Users\Au Zu\Documents\GitHub\contactsapp\contacstapp\contacstapp\obj\Debug\contacstapp.csprojResolveAssemblyReference.cache
+C:\Users\Au Zu\Documents\GitHub\contactsapp\contacstapp\contacstapp\obj\Debug\contacstapp.csproj.CoreCompileInputs.cache
+C:\Users\Au Zu\Documents\GitHub\contactsapp\contacstapp\contacstapp\bin\Debug\contacstapp.exe.config
+C:\Users\Au Zu\Documents\GitHub\contactsapp\contacstapp\contacstapp\bin\Debug\contacstapp.exe
+C:\Users\Au Zu\Documents\GitHub\contactsapp\contacstapp\contacstapp\bin\Debug\contacstapp.pdb
+C:\Users\Au Zu\Documents\GitHub\contactsapp\contacstapp\contacstapp\obj\Debug\contacstapp.exe
+C:\Users\Au Zu\Documents\GitHub\contactsapp\contacstapp\contacstapp\obj\Debug\contacstapp.pdb
